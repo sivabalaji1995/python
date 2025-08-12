@@ -5,7 +5,7 @@ import requests
 
 TENANT_ID = "a0977b0c-428a-4396-9992-d35626fb0508"
 CLIENT_ID = "82e2dfe4-6b52-4b91-9531-b0a1776d139e"
-#CLIENT_SECRET =
+CLIENT_SECRET = "QHf8Q~gDiVcoMdOMkP5L-sRZ-yxaBP1a994Dub8q"
 
 AUTHORITY = f"https://login.microsoftonline.com/{TENANT_ID}"
 SCOPE = ["https://graph.microsoft.com/.default"]  
