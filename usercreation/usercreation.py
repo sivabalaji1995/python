@@ -9,7 +9,6 @@ CLIENT_SECRET = "QHf8Q~gDiVcoMdOMkP5L-sRZ-yxaBP1a994Dub8q"
 
 AUTHORITY = f"https://login.microsoftonline.com/{TENANT_ID}"
 SCOPE = ["https://graph.microsoft.com/.default"]  
-
 GRAPH_ENDPOINT = "https://graph.microsoft.com/v1.0/users"
 
 def get_access_token():
